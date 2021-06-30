@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\PairProgrammingTest\PairProgrammingTest\bin\Debug\PairProgrammingTest.exe.config
+C:\Users\User\source\repos\PairProgrammingTest\PairProgrammingTest\bin\Debug\PairProgrammingTest.exe
+C:\Users\User\source\repos\PairProgrammingTest\PairProgrammingTest\bin\Debug\PairProgrammingTest.pdb
+C:\Users\User\source\repos\PairProgrammingTest\PairProgrammingTest\obj\Debug\PairProgrammingTest.csprojAssemblyReference.cache
+C:\Users\User\source\repos\PairProgrammingTest\PairProgrammingTest\obj\Debug\PairProgrammingTest.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\PairProgrammingTest\PairProgrammingTest\obj\Debug\PairProgrammingTest.exe
+C:\Users\User\source\repos\PairProgrammingTest\PairProgrammingTest\obj\Debug\PairProgrammingTest.pdb
